@@ -1,5 +1,5 @@
 # Roll_Dice
-This program is built using python and it's library Tkinter and Pillow
+This program is built using python and it's library Tkinter.
 
 Fun Python game to roll a dice and show from numbers between (1-6).
 
@@ -17,8 +17,8 @@ Dice = {
 Run the python program to play the game.
 
 ## prequisties
-install Pillow using 
-pip install Pillow
+install Tkinter using 
+pip install Tkinter
 
 
 I have built this program just for fun in lockdown.
