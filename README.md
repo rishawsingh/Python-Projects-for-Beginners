@@ -1,4 +1,4 @@
-# Python Basic Applications For Beginners
+# Python Basic Projects For Beginners
 - This repository is created keeping in mind the beginners who have just begin to code.
 - This repository consists of various Python Projects that are very small and very easy to build. 
 - These projects will not only help you get first-hand experience in building real world projects but also help you get the basics and fundamentals of Python clearly.
