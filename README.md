@@ -1,9 +1,7 @@
 # Python Basic Projects For Beginners
 - This repository is created keeping in mind the beginners who have just begin to code.
 - This repository consists of various Python Projects that are very small and very easy to build. 
-- These projects will not only help you get first-hand experience in building real world projects but also help you get the basics and fundamentals of Python clearly.
-
-
+- These projects will help you in getting the first - hand experience and also learn about the fundamentals of python.
 
 ## 1 Roll_Dice
 This program is built using python and it's library Tkinter.
@@ -53,7 +51,7 @@ pip install pillow
       - inches
       - meters
       - foot
-- The user can convert from inches---> meter or inches--->foot or foot--->inches or foot--->meter or meter--->inches or meter---> foot
+- The user can convert from inche to  meter or inches to foot or foot to inches or foot to meter or meter to inches or meter to foot
 
 ### prequisties
 install Tkinter using 
